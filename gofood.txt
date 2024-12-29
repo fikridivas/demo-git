@@ -1,0 +1,3 @@
+ini adalah fitur go food dengan discount gokil
+
+sekarang udah bisa ngasih rekomendasi kuat
